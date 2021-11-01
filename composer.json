@@ -4,6 +4,7 @@
     "version": "v12.1.3",
     "type": "shopware-platform-plugin",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Novalnet AG",
